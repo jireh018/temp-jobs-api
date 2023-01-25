@@ -59,3 +59,4 @@ const start = async () => {
 };
 
 start();
+//nodemon app.js
